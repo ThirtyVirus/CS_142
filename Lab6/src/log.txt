@@ -1,0 +1,11 @@
+commit 778c049d90fcf5f8771ef2830d83ee6b374763d1
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Tue Apr 4 22:47:05 2017 -0400
+
+    Fixed bugs with isValid, added comments, and brought time complexity down to under a minute for the two bonus problems. Managed example #8 in 730 seconds. Ready to submit
+
+commit 3e1aebcc9d61364e28462bc49fbf1f75dbc610b7
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Tue Apr 4 21:06:06 2017 -0400
+
+    Created Framework for NurikabeConfig, working towards increasing efficiency for larger puzzles

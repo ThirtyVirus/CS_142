@@ -1,0 +1,17 @@
+commit 5e3d969b9aaa67ccabe7c6efe505e82f36a92662
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Tue Mar 7 23:39:24 2017 -0500
+
+    Fixed Bugs, ready to submit
+
+commit 0185f3ad45469ac5dfb8c6b936a8d01a50a20b5a
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Tue Mar 7 22:22:33 2017 -0500
+
+    Coded majority of program, found bugs. Attempting fix
+
+commit 1821fd45f38a1517c30b5b21180fe29e4b3f7be6
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Sat Mar 4 12:11:32 2017 -0500
+
+    Coded the skeleton of the program, started work on backend and SIS.
