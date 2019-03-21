@@ -1,0 +1,29 @@
+commit 9044b086715e5069598b27c4175ae04bd9304654
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Tue Feb 21 23:39:05 2017 -0500
+
+    Finished Error Checking, ready to submit
+
+commit 9353f2c8049b3f0f0835eea24559b1347cfef0d8
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Tue Feb 21 23:17:21 2017 -0500
+
+    Fixed bug, started testing errors
+
+commit 8cf74e66702a5cc8aa029a02fa086e0b0e9c2f98
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Tue Feb 21 22:33:56 2017 -0500
+
+    Programmed all logic for program, one bug remaining
+
+commit 499eb24c4cdd8323549e533168ffd1d5807d131c
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Mon Feb 20 22:01:27 2017 -0500
+
+    Documentation for files layed out
+
+commit 9cf1c3d16574d6ebf0bf66307b718be3d3019348
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Mon Feb 20 21:18:55 2017 -0500
+
+    Files Created
